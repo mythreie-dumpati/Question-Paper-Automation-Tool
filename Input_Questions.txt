@@ -1,0 +1,25 @@
+describe stack and queue
+does C support polymorphism
+define abstraction
+write short note on data encapsulation
+what are the uses of recursion
+define object oriented programming
+
+explain the concept of inheritance and its real life examples
+what a class and how is it different from an object
+
+how does virtual memory work in operating system
+purpeso of garbage collection in java
+
+avantages and disadvantages of cloud computing
+can you explain time complexity using big O notation
+
+define apple.
+how does pebble help, define its class
+
+explain the concept of pointers in C, give an example
+what is inheritance in Python, and how is it implemented
+define cloud storage, mention its advantages and disadvantages
+how does garbage collection work in Java, give a real life analogy
+differentiate between list comprehension and generator in Python
+define adams apple and mention its advantages and sisadvantages
