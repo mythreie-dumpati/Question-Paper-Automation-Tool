@@ -10,7 +10,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 Question Paper Automation Tool (QPAT) is a full-stack academic assessment automation platform designed to streamline and accelerate the creation of university-compliant question papers.
 
@@ -20,13 +20,13 @@ Using Sentence Transformers, QPAT performs semantic analysis of examination ques
 
 ---
 
-## Institutional Application
+## 🏛️ Institutional Application
 
 Developed as an academic workflow automation solution to assist faculty members in preparing and submitting examination question papers efficiently, QPAT standardizes assessment creation while reducing administrative overhead and manual processing effort.
 
 ---
 
-## Problem Statement
+## 🎯 Problem Statement
 
 Preparing examination question papers manually is often time-consuming, repetitive, and prone to formatting inconsistencies. Faculty members must spend significant effort organizing questions, validating formats, ensuring compliance with university guidelines, generating final documents, and coordinating submission procedures.
 
@@ -34,7 +34,7 @@ QPAT addresses these challenges by automating the complete question paper prepar
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 * Automated question paper generation from uploaded question banks
 * Semantic understanding of questions using Sentence Transformers
@@ -53,7 +53,7 @@ QPAT addresses these challenges by automating the complete question paper prepar
 
 ---
 
-## AI & NLP Capabilities
+## 🤖 AI & NLP Capabilities
 
 QPAT leverages Natural Language Processing techniques to improve academic content analysis and assessment preparation.
 
@@ -69,7 +69,7 @@ QPAT leverages Natural Language Processing techniques to improve academic conten
 
 ---
 
-## Use Case
+## 🎓 Use Case
 
 QPAT is designed for educational institutions seeking to automate the assessment preparation process.
 
@@ -77,7 +77,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ---
 
-## System Workflow
+## ⚙️ System Workflow
 
 1. Upload a question bank file (.txt or .docx)
 2. Configure examination details:
@@ -100,7 +100,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### Frontend
 
@@ -134,7 +134,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ---
 
-## Project Outcomes
+## 🎯 Project Outcomes
 
 * Automated the end-to-end question paper preparation workflow
 * Reduced faculty effort involved in question paper creation and formatting
@@ -147,7 +147,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ### Home Screen
 
@@ -168,7 +168,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ---
 
-## Demo Video
+## ▶️ Demo Video
 
 Watch the project demonstration:
 
@@ -178,7 +178,7 @@ Alternatively, the demonstration video can be hosted on YouTube and linked here.
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 * Advanced NLP-based question quality analysis
 * AI-assisted question recommendation and generation
@@ -193,20 +193,19 @@ Alternatively, the demonstration video can be hosted on YouTube and linked here.
 
 ---
 
-## Repository Information
+## 📂 Repository Information
 
 This repository serves as a project showcase containing documentation, architecture diagrams, screenshots, and demonstration materials.
 
 Source code is not publicly available.
 
 ---
-## Project Team
+## 👥 Project Team
 
 Developed by:
 
-- Mythreie Dumpati
 - Abhishek Mathpati
-
+- Mythreie Dumpati
 
 Department of Computer Science & Engineering  
 Keshav Memorial Engineering College
