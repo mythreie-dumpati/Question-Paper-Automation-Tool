@@ -19,6 +19,23 @@ The platform combines Natural Language Processing (NLP), semantic text analysis,
 Using Sentence Transformers, QPAT performs semantic analysis of examination questions to better understand question intent and support Bloom's Taxonomy-based cognitive level classification. The generated question papers are formatted automatically, converted into secure PDF documents, and submitted to the Examination Branch through an automated workflow.
 
 ---
+## 📑 Table of Contents
+
+* [Overview](#-overview)
+* [Institutional Application](#-institutional-application)
+* [Problem Statement](#-problem-statement)
+* [Key Features](#-key-features)
+* [AI & NLP Capabilities](#-ai--nlp-capabilities)
+* [Use Case](#-use-case)
+* [System Workflow](#️-system-workflow)
+* [Technology Stack](#️-technology-stack)
+* [Project Outcomes](#-project-outcomes)
+* [Screenshots](#-screenshots)
+* [Demo Video](#️-demo-video)
+* [Future Enhancements](#-future-enhancements)
+* [Repository Information](#-repository-information)
+* [Project Team](#-project-team)
+---
 
 ## 🏛️ Institutional Application
 
